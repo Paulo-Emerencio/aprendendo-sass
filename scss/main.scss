@@ -1,0 +1,4 @@
+// sass -s expanded --watch scss:css
+// -s expanded ou compressed (só quando vc quiser mudar. Padrão: expanded);
+
+@use '../scss/_layout';
